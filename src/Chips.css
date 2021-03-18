@@ -1,0 +1,12 @@
+.Chips {
+  display: flex;
+  flex-direction: column;
+}
+
+.Chips button {
+  margin: 0 auto;
+}
+
+.Chips a {
+  margin: 10px;
+}

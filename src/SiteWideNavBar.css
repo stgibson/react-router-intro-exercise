@@ -1,0 +1,11 @@
+.SiteWideNavBar {
+  margin-top: 20px;
+}
+
+.SiteWideNavBar a {
+  margin-left: 10px;
+}
+
+.SiteWideNavBar a.active {
+  color: black;
+}
